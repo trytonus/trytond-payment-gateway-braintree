@@ -1,0 +1,5 @@
+[run]
+source = trytond.modules.payment_gateway_braintree
+
+[report]
+omit = */tests/*, */setup.py

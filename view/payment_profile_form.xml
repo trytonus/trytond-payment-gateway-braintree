@@ -1,0 +1,6 @@
+<data>
+    <xpath expr="/form/label[@name='provider_reference']" position="before">
+        <label name="braintree_customer_id"/>
+        <field name="braintree_customer_id"/>
+    </xpath>
+</data>

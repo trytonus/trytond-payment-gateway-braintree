@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<data>
+    <xpath expr="/form/notebook" position="inside">
+        <page string="Braintree Settings" id="braintree">
+            <label name="braintree_api_key" />
+            <field name="braintree_api_key" widget="password" />
+            <label name="braintree_public_key" />
+            <field name="braintree_public_key"/>
+            <label name="braintree_merchant_id" />
+            <field name="braintree_merchant_id"/>
+            <label name="braintree_currency" />
+            <field name="braintree_currency"/>
+        </page>
+    </xpath>
+</data>
